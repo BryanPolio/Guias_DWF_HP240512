@@ -1,0 +1,10 @@
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\controller\PostController.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\controller\request\PostRequest.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\controller\response\PostResponse.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\repository\domain\Post.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\repository\domain\PostComment.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\repository\PostRepository.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\service\implementation\PostServiceImpl.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\service\mapper\PostMapper.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\service\PostService.java
+C:\Users\bryaa\OneDrive\Escritorio\GUIA 7\spring-api-rest\src\main\java\sv\edu\udb\SpringApiRestApplication.java
